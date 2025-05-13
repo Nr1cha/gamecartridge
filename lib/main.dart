@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(fontSize: 67, color: Colors.blue),
               ),
               Text(
-                'welcome to flutter',
+                'Welcome to flutter!',
                 style: TextStyle(fontSize: 24, color: Colors.green),
               ),
             ],
